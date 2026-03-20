@@ -1,17 +1,1 @@
-<p align="center">
-  <a href="https://mynickname.com/realdecodex">
-    <img src="https://mynickname.com/img.php?nick=RealDecodex&sert=22&text=t5" alt="Никнейм RealDecodex зарегистрирован!" border="0" />
-  </a>
-</p>
-
-<h1 align="center">📢My Telegram channel: https://t.me/RealDecodex</h1>
-
-<h1 align="center">Visitors:</h1>
-
-<p align="center">
-  <img src="https://count.getloli.com/@RealDecodex?name=RealDecodex&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Счётчик посетителей"/>
-</p>
-
-<p align="center">
-  <iframe src="https://terminator.aeza.net" width="100%" height="500" style="border:none;"></iframe>
-</p>
+<p align="center"><a href="https://mynickname.com/realdecodex"><img src="https://mynickname.com/img.php?nick=RealDecodex&sert=22&text=t5" alt="Никнейм RealDecodex зарегистрирован!" border="0" /></a></p> <h1 align="center">📢My Telegram channel: https://t.me/RealDecodex</h1> <h1 align="center">Visitors:</h1> <p align="center"><img src="https://count.getloli.com/@RealDecodex?name=RealDecodex&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Счётчик посетителей"/></p>
