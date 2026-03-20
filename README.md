@@ -1,15 +1,13 @@
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
 <tr>
- 
-  <td width="50"></td> 
   <td>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70909&width=435&lines=t.me%2FRealDecodex" alt="Typing SVG" />
     </a>
   </td>
 </tr>
 <tr>
-  <td></td>
   <td align="center">
     <a href="https://mynickname.com/realdecodex">
       <img src="https://mynickname.com/img.php?nick=RealDecodex&sert=22&text=t5" alt="Никнейм RealDecodex зарегистрирован!" border="0" />
