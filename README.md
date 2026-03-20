@@ -1,1 +1,2 @@
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70909&width=435&lines=t.me%2FRealDecodex" alt="Typing SVG" /></a></p>
 <p align="center"><a href="https://mynickname.com/realdecodex"><img src="https://mynickname.com/img.php?nick=RealDecodex&sert=22&text=t5" alt="Никнейм RealDecodex зарегистрирован!" border="0" /></a></p>
